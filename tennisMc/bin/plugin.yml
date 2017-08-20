@@ -1,0 +1,8 @@
+name: Tennis
+version: 1.0
+author: SaiiT/BluBOo
+main: tennisMc.Tennis
+commands:
+  get:
+    usage: no
+    description: no
